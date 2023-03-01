@@ -1,1 +1,3 @@
-touch up_to_date
+git init
+git add up_to_date
+git commit -m "Initial commit of up_to_date"
